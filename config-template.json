@@ -1,5 +1,8 @@
 {
   "open_ai_api_key": "YOUR API KEY",
+    "baidu_wenxin_model": "eb-instant",  
+    "baidu_wenxin_api_key": "",  
+    "baidu_wenxin_secret_key": "",  
   "model": "gpt-3.5-turbo",
   "channel_type": "wx",
   "proxy": "",
